@@ -1,0 +1,5 @@
+fastapi
+mongoengine
+sentry_sdk
+uvicorn
+dotenv
