@@ -9,6 +9,4 @@ class User(Document):
 class registerRequest(BaseModel):
     name: str
     lastname: str
-    codemelli: int
-    number: int
     email: str
